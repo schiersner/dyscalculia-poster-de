@@ -20,7 +20,9 @@ Dieses Werk ist eine Adaption, die auf den folgenden Bedingungen basiert:
 - der Name und das Logo des Innenministeriums wurden entfernt
 - das Werk wurde angemessen gewürdigt und mit der Quelle verlinkt
 
-Sie können auf dem [GOV.UK Accessibility Blog] (https://accessibility.blog.gov.uk) nachlesen, [wie die ursprünglichen Do's and Don'ts-Poster entwickelt wurden] (https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/). 
+Sie können auf dem [GOV.UK Accessibility Blog (englisch)](https://accessibility.blog.gov.uk) nachlesen, 
+- [was beim Gestalten für Menschen mit Rechenschwäche beachtet werden muss (englisch)](https://designnotes.blog.gov.uk/2022/11/28/designing-for-people-with-dyscalculia-and-low-numeracy/) und
+- [wie die ursprünglichen Do's and Don'ts-Poster entwickelt wurden (englisch)](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/). 
 
 ## Forschung, die diesem Poster zugrunde liegt
 

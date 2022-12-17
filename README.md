@@ -1,73 +1,77 @@
-# Designing for users with dyscalculia or low numeracy
+# Design für Nutzer mit Dyskalkulie oder geringen Rechenfähigkeiten
 
-## Get the poster
+Dieser Fork bietet eine deutsche Übersetzung. Hier finden Sie das [Original Repo ](https://github.com/abbott567/dyscalculia-poster/).
 
-You can:
-- [View the accessible poster as HTML](https://htmlpreview.github.io/?https://github.com/abbott567/dyscalculia-poster/blob/main/dist/dyscalculia-poster.html)
-- [Download the accessible poster as HTML](https://github.com/abbott567/dyscalculia-poster/raw/main/dist/dyscalculia-poster.zip)
-- [Download the poster as a PDF for print](https://github.com/abbott567/dyscalculia-poster/blob/main/dist/dyscalculia-poster.pdf)
+## Holen Sie sich das Poster
 
-## About this poster
+Sie können:
+- [Das barrierefreie Poster in deutsch als HTML ansehen](https://htmlpreview.github.io/?https://github.com/franschier/dyscalculia-poster-de/blob/main/dist/dyscalculia-poster-de.html)
+- [Das barrierefreie Original-Poster in englisch als HTML ansehen](https://htmlpreview.github.io/?https://github.com/abbott567/dyscalculia-poster/blob/main/dist/dyscalculia-poster.html)
+- [Das barrierefreie Original-Poster in englisch als HTML herunterladen](https://github.com/abbott567/dyscalculia-poster/raw/main/dist/dyscalculia-poster.zip)
+- [Das Original-Poster in englisch als PDF zum Ausdrucken herunterladen](https://github.com/abbott567/dyscalculia-poster/blob/main/dist/dyscalculia-poster.pdf)
 
-This poster was made as an addition to the awesome [Home Office Accessibility posters](https://ukhomeoffice.github.io/accessibility-posters/posters/accessibility-posters.pdf).
+## Über dieses Poster
 
-This work is an adaptation based on the following conditions:
-- the work is available under the Creative Commons
-- it has am Attribution-NonCommercial-ShareAlike 4.0 International licence
-- the Home Office name and logo has been removed
-- appropriate credit has been given and and linked back to the repo
+Dieses Poster wurde als Ergänzung zu den großartigen [Home Office Accessibility Postern](https://ukhomeoffice.github.io/accessibility-posters/posters/accessibility-posters.pdf) erstellt.
 
-You can read about [how the original Do's and Don'ts posters were developed](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/) on the [GOV.UK Accessibility Blog](https://accessibility.blog.gov.uk). 
+Dieses Werk ist eine Adaption, die auf den folgenden Bedingungen basiert:
+- das Werk ist unter der Creative Commons verfügbar
+- es hat die Lizenz Attribution-NonCommercial-ShareAlike 4.0 International
+- der Name und das Logo des Innenministeriums wurden entfernt
+- das Werk wurde angemessen gewürdigt und mit der Quelle verlinkt
 
-## Research which informed this poster
+Sie können auf dem [GOV.UK Accessibility Blog] (https://accessibility.blog.gov.uk) nachlesen, [wie die ursprünglichen Do's and Don'ts-Poster entwickelt wurden] (https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/). 
 
-### Round numbers up to the nearest whole number
-Do not use decimals unless it’s money.
+## Forschung, die diesem Poster zugrunde liegt
 
-Research has shown that it’s easier for people to understand content when there are fewer digits on the page. 
+### Runden Sie Zahlen auf die nächste ganze Zahl auf.
+Verwenden Sie keine Dezimalzahlen, es sei denn, es geht um Geld.
 
-### Leave space around numbers
-Do not overwhelm people with too much content 
+Untersuchungen haben gezeigt, dass es für Menschen einfacher ist, Inhalte zu verstehen, wenn weniger Ziffern auf der Seite vorhanden sind. 
 
-Prioritise the most important information for a user, whether that’s numbers or words. 
+### Lassen Sie Platz um die Zahlen herum.
+Überfordern Sie die Menschen nicht mit zu viel Inhalt 
 
-This is important because dyscalculia can cause numbers to look wavy or appear to jump around on the page. It takes a lot of concentration to read them. 
+Priorisieren Sie die für die Nutzer wichtigsten Informationen, egal ob es sich dabei um Zahlen oder Wörter handelt. 
 
-Dyscalculia often co-occurs with dyslexia, so by making all content (numbers and words) clear and easy to understand, a design is more accessible and inclusive. 
+Das ist wichtig, denn bei Dyskalkulie können die Zahlen wellenförmig erscheinen oder auf der Seite herumspringen. Das Lesen der Zahlen erfordert eine hohe Konzentration. 
 
-### Fill in the information you already have
-Do not expect users to repeat or remember numbers.
+Dyskalkulie tritt häufig zusammen mit Legasthenie auf. Wenn also alle Inhalte (Zahlen und Wörter) klar und leicht zu verstehen sind, ist das Design zugänglicher und integrativer. 
 
-Many people with dyscalculia have issues with working memory so remembering numbers is difficult. Let technology to do the work for users instead.
+### Füllen Sie die Informationen aus, die Sie bereits haben.
+Erwarten Sie von den Nutzern nicht, dass sie Zahlen wiederholen oder sich merken.
 
-### Use sentences to add context about numbers
-Do not use tables or grids without explaining what the numbers mean.
+Viele Menschen mit Dyskalkulie haben Probleme mit dem Kurzzeitgedächtnis, so dass sie sich Zahlen nur schwer merken können. Lassen Sie stattdessen die Technologie die Arbeit für die Nutzer erledigen.
 
-Research has shown that people find it easier to understand utility bills and payment plans when the numbers are presented in sentences. Adding context helps to make the meaning clearer. 
+### Verwenden Sie Text, um den Kontext der Zahlen zu verdeutlichen.
+Verwenden Sie keine Tabellen oder Raster, ohne zu erklären, was die Zahlen bedeuten.
 
-### Let people include spaces when entering numbers
-Do not rush users to enter a number accurately.
+Untersuchungen haben gezeigt, dass es den Menschen leichter fällt, Rechnungen und Zahlungspläne zu verstehen, wenn die Zahlen in Sätzen dargestellt werden. Durch Hinzufügen von Kontext wird die Bedeutung deutlicher. 
 
-This is because people might take more attempts to enter numbers accurately. Try not to set any time limits.
+### Lassen Sie bei der Eingabe von Zahlen auch Leerzeichen zu.
+Drängen Sie die Nutzer nicht, eine Zahl genau einzugeben.
 
-### Do user research with people who struggle with numbers
-Do not force people to enter a number or do a sum to verify themselves.
+Es kann nämlich sein, dass die Nutzer mehrere Versuche brauchen, um die Zahlen richtig einzugeben. Versuchen Sie, keine Zeitlimits zu setzen.
 
-People with dyscalculia have trouble doing calculations and recalling math facts and concepts. Forcing people to do sums to verify identity or access a system is likely to exclude them. Tell people about a different way to complete the task which doesn’t involve entering numbers, for instance by using face recognition.
+### Führen Sie Nutzertests mit Menschen durch, die Schwierigkeiten mit Zahlen haben.
+Zwingen Sie niemanden dazu, eine Zahl einzugeben oder eine Summe zu bilden, um sich selbst zu überprüfen.
 
-If they must enter a number, let them paste it in or give them a recognisable format to help enter the number. 
+Menschen mit Dyskalkulie haben Schwierigkeiten, Berechnungen durchzuführen und sich an mathematische Fakten und Konzepte zu erinnern. Menschen zu zwingen, Summen zu bilden, um ihre Identität zu überprüfen oder Zugang zu einem System zu erhalten, wird sie wahrscheinlich ausschließen. Informieren Sie die Menschen über eine andere Möglichkeit, die Aufgabe zu lösen, ohne Zahlen einzugeben, z. B. mit Hilfe der Gesichtserkennung.
 
-## Credits
-This poster was designed and created by:
+Wenn sie eine Zahl eingeben müssen, lassen Sie sie durch Kopieren einfügen oder zeigen Sie ihnen ein wieder erkennbares Format, das bei der Eingabe der Zahl hilft. 
+
+
+## Danksagung
+Dieses Poster wurde entworfen und erstellt von:
 - [Jane McFadyen](https://twitter.com/mcfadyen_jane)
 - [Laura Parker](https://twitter.com/LauraParkerUX)
 - [Rachel Malic](https://twitter.com/GirlCalledMalic)
       
-Thank you to:
-- Ollie Sweetman and the Civil Service Dyslexia and Dyspraxia Network
-- [Dyscalcula Network](https://www.dyscalculianetwork.com) for consulting on the poster
-- [National Numeracy](https://www.nationalnumeracy.org.uk) for reviewing the poster
-- [Plain Numbers](https://www.plainnumbers.org.uk) for reviewing the poster
-- The people who attended our focus group helping to shape the poster
+Vielen Dank an:
+- Ollie Sweetman und das "Dyslexia and Dyspraxia Network" der Regierung des Vereinten Königreiches
+- [Dyscalcula Network](https://www.dyscalculianetwork.com) für die Beratung zum Poster
+- [National Numeracy](https://www.nationalnumeracy.org.uk) für die Durchsicht des Posters
+- [Plain Numbers](https://www.plainnumbers.org.uk) für die Durchsicht des Posters
+- Die Teilnehmer der Fokusgruppe, die an der Gestaltung des Posters mitgewirkt haben
 
-This HTML version of the poster was developed by: [Craig Abbott](https://twitter.com/abbott567).
+Diee HTML-Version des Original-Posters wurde entwickelt von: [Craig Abbott](https://twitter.com/abbott567).

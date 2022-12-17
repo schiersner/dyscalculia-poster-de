@@ -1,6 +1,6 @@
 # Design für Nutzer mit Dyskalkulie oder geringen Rechenfähigkeiten
 
-Dieser Fork bietet eine deutsche Übersetzung. Hier finden Sie das [Original Repo ](https://github.com/abbott567/dyscalculia-poster/).
+Dieser Fork bietet eine deutsche Übersetzung. Hier finden Sie das [Original Repo (englisch)](https://github.com/abbott567/dyscalculia-poster/).
 
 ## Holen Sie sich das Poster
 
@@ -70,7 +70,7 @@ Dieses Poster wurde entworfen und erstellt von:
 - [Rachel Malic](https://twitter.com/GirlCalledMalic)
       
 Vielen Dank an:
-- Ollie Sweetman und das "Dyslexia and Dyspraxia Network" der Regierung des Vereinten Königreiches
+- Ollie Sweetman und das "Dyslexia and Dyspraxia Network" der Regierung des Vereinigten Königreiches
 - [Dyscalcula Network](https://www.dyscalculianetwork.com) für die Beratung zum Poster
 - [National Numeracy](https://www.nationalnumeracy.org.uk) für die Durchsicht des Posters
 - [Plain Numbers](https://www.plainnumbers.org.uk) für die Durchsicht des Posters

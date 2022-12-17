@@ -1,6 +1,0 @@
-@use './mixins' as *;
-
-h2 {
-  @include flex;
-  margin: 0;
-}

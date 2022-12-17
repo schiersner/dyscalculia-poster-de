@@ -5,7 +5,7 @@ Dieser Fork bietet eine deutsche Übersetzung. Hier finden Sie das [Original Rep
 ## Holen Sie sich das Poster
 
 Sie können:
-- [Das barrierefreie Poster in deutsch als HTML ansehen](https://htmlpreview.github.io/?https://github.com/franschier/dyscalculia-poster-de/blob/main/dist/dyscalculia-poster-de.html)
+- [Das barrierefreie Poster in deutsch als HTML ansehen](https://htmlpreview.github.io/?https://github.com/schiersner/dyscalculia-poster-de/blob/main/dist/dyscalculia-poster-de.html)
 - [Das barrierefreie Original-Poster in englisch als HTML ansehen](https://htmlpreview.github.io/?https://github.com/abbott567/dyscalculia-poster/blob/main/dist/dyscalculia-poster.html)
 - [Das barrierefreie Original-Poster in englisch als HTML herunterladen](https://github.com/abbott567/dyscalculia-poster/raw/main/dist/dyscalculia-poster.zip)
 - [Das Original-Poster in englisch als PDF zum Ausdrucken herunterladen](https://github.com/abbott567/dyscalculia-poster/blob/main/dist/dyscalculia-poster.pdf)
